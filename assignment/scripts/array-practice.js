@@ -104,5 +104,5 @@ console.log(foodArray.join(' and '));
 //     Then log the new array.
 //     It should look something like:
 //     ['pizza', 'pasta', 'fish', 'cat', 'bird', 'dog']
-let newArray = [...foodArray, ...animalArray]
-console.log(newArray)
+let newArray = [...foodArray, ...animalArray];
+console.log(newArray);
